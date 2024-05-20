@@ -1,7 +1,6 @@
 <div align="center">
   <h3>Jorge#603</h3>
-<hr>
-  <strong>21 años</strong> - <strong>MX</strong> - <strong>Backend Developer</strong>
+  <strong>21 años</strong> - <strong>MX</strong> - <strong>Backend Developer</strong> - <strong>Intento de sysadmin</strong>
 
   <br />
   <br />
