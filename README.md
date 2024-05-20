@@ -15,11 +15,11 @@
 
   <h4>Lenguajes y frameworks</h4>
 
-
   <h4>Tecnologías</h4>
   <img src="https://shields.io/badge/Apache-0c0d0d?logo=Apache&logoColor=EC0000&style=for-the-badge" alt="Apache">
   <img src="https://shields.io/badge/MySQL-0c0d0d?logo=Mysql&logoColor=1F65AB&style=for-the-badge" alt="MySQL">
-
+  <img src="https://shields.io/badge/MariaDB-0c0d0d?logo=Mariadb&logoColor=D0823E&style=for-the-badge" alt="MariaDB">
+  
   <h4>Sistemas Operativos (de Servidor)</h4>
   <img src="https://shields.io/badge/Ubuntu-0c0d0d?logo=Ubuntu&logoColor=FE2D00&style=for-the-badge" alt="Ubuntu Server">
   <img src="https://shields.io/badge/Fedora-0c0d0d?logo=Fedora&logoColor=528FFF&style=for-the-badge" alt="Fedora Server Edition">
