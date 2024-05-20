@@ -11,7 +11,7 @@
   </a>
 
 <div align="left">
-  <h2>Lenguajes, tecnologías y S.O que domino</h2>
+  <h2>Lenguajes, tecnologías y S.O que suelo usar</h2>
 
   <h4>Lenguajes y frameworks</h4>
   <img src="https://shields.io/badge/PHP-0c0d0d?logo=PHP&logoColor=5D58FB&style=for-the-badge" alt="PHP">
