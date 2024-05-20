@@ -15,6 +15,7 @@
 
   <h4>Lenguajes y frameworks</h4>
   <img src="https://shields.io/badge/PHP-0c0d0d?logo=PHP&logoColor=5D58FB&style=for-the-badge" alt="PHP">
+  <img src="https://shields.io/badge/JQuery_/_AJAX-0c0d0d?logo=jquery&logoColor=5D58FB&style=for-the-badge" alt="JQuery / AJAX">
 
   <h4>Tecnologías</h4>
   <img src="https://shields.io/badge/Apache-0c0d0d?logo=Apache&logoColor=EC0000&style=for-the-badge" alt="Apache">
