@@ -7,15 +7,17 @@
   <br />
 
   <a href="https://discord.com/users/917804384597970956">
-  <img src="https://lanyard.cnrad.dev/api/917804384597970956?bg=0c0d0d&showDisplayName=true&hideActivity=whenNotUsed">
+  <img src="https://lanyard.cnrad.dev/api/917804384597970956?bg=0c0d0d&showDisplayName=true&hideActivity=whenNotUsed" height="90" />
   </a>
 
 <div align="left">
   <h2>Lenguajes, tecnologías y S.O que suelo usar</h2>
 
   <h4>Lenguajes y frameworks</h4>
-  <img src="https://shields.io/badge/PHP-0c0d0d?logo=PHP&logoColor=5D58FB&style=for-the-badge" alt="PHP">
-  <img src="https://shields.io/badge/JQuery_/_AJAX-0c0d0d?logo=jquery&logoColor=5D58FB&style=for-the-badge" alt="JQuery / AJAX">
+  <img src="https://shields.io/badge/PHP-0c0d0d?logo=PHP&logoColor=5D58FB&style=for-the-badge" alt="PHP" />
+  <img src="https://shields.io/badge/Laravel-0c0d0d?logo=Laravel&logoColor=FF0000&style=for-the-badge" alt="Laravel" />
+  <img src="https://shields.io/badge/JQuery_/_AJAX-0c0d0d?logo=jquery&logoColor=5D58FB&style=for-the-badge" alt="JQuery / AJAX" />
+  <img src="https://shields.io/badge/JavaScript-0c0d0d?logo=JavaScript&logoColor=e8d44d&style=for-the-badge" alt="JavaScript" />
 
   <h4>Tecnologías</h4>
   <img src="https://shields.io/badge/Apache-0c0d0d?logo=Apache&logoColor=EC0000&style=for-the-badge" alt="Apache">
