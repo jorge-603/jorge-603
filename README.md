@@ -7,7 +7,7 @@
   <br />
 
   <a href="https://discord.com/users/917804384597970956">
-  <img src="https://lanyard.cnrad.dev/api/917804384597970956?bg=0c0d0d&showDisplayName=true&hideActivity=whenNotUsed">
+  <img src="https://lanyard.cnrad.dev/api/917804384597970956?bg=0c0d0d&showDisplayName=true&hideActivity=whenNotUsed height="90"">
   </a>
 
 <div align="left">
