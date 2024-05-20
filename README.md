@@ -14,6 +14,7 @@
   <h2>Lenguajes, tecnologías y S.O que domino</h2>
 
   <h4>Lenguajes y frameworks</h4>
+  <img src="https://shields.io/badge/PHP-0c0d0d?logo=PHP&logoColor=5D58FB&style=for-the-badge" alt="PHP">
 
   <h4>Tecnologías</h4>
   <img src="https://shields.io/badge/Apache-0c0d0d?logo=Apache&logoColor=EC0000&style=for-the-badge" alt="Apache">
