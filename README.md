@@ -1,7 +1,7 @@
 <div align="center">
   
   <h1>Jorge#603</h1>
-  <strong>21 años</strong> - <strong>MX</strong> - <strong>Backend Developer</strong> - <strong>Intento de sysadmin</strong>
+  <strong>21 años</strong> - <strong>MX</strong> - <strong>Backend Developer</strong> - <strong>Intento de Sysadmin</strong>
 
   <br />
   <br />
@@ -16,8 +16,8 @@
   <h4>Lenguajes y frameworks</h4>
   <img src="https://shields.io/badge/PHP-0c0d0d?logo=PHP&logoColor=5D58FB&style=for-the-badge" alt="PHP" />
   <img src="https://shields.io/badge/Laravel-0c0d0d?logo=Laravel&logoColor=FF0000&style=for-the-badge" alt="Laravel" />
-  <img src="https://shields.io/badge/JQuery_/_AJAX-0c0d0d?logo=jquery&logoColor=5D58FB&style=for-the-badge" alt="JQuery / AJAX" />
   <img src="https://shields.io/badge/JavaScript-0c0d0d?logo=JavaScript&logoColor=e8d44d&style=for-the-badge" alt="JavaScript" />
+  <img src="https://shields.io/badge/JQuery_/_AJAX-0c0d0d?logo=jquery&logoColor=5D58FB&style=for-the-badge" alt="JQuery / AJAX" />
 
   <h4>Tecnologías</h4>
   <img src="https://shields.io/badge/Apache-0c0d0d?logo=Apache&logoColor=EC0000&style=for-the-badge" alt="Apache">
@@ -38,5 +38,12 @@
   <img src="https://shields.io/badge/GO-0c0d0d?logo=go&logoColor=00A6FF&style=for-the-badge" alt="Go Lang">
   <img src="https://shields.io/badge/Rocky_Linux-0c0d0d?logo=rockylinux&logoColor=00FF7C&style=for-the-badge" alt="Rocky Linux">
 </div>
+
+  <h2>Proyectos Actuales</h2>
+
+  <div>
+    <a href="https://docs.filebeam.xyz"><img src="assets/filebeam.png" width="200px"></a>
+  </div>
+  
 
 </div>
