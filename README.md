@@ -23,6 +23,7 @@
   <h4>Sistemas Operativos (de Servidor)</h4>
   <img src="https://shields.io/badge/Ubuntu-0c0d0d?logo=Ubuntu&logoColor=FE2D00&style=for-the-badge" alt="Ubuntu Server">
   <img src="https://shields.io/badge/Fedora-0c0d0d?logo=Fedora&logoColor=528FFF&style=for-the-badge" alt="Fedora Server Edition">
+  <img src="https://shields.io/badge/Windows_Server-0c0d0d?logo=Windows&logoColor=61B1E8&style=for-the-badge" alt="Windows Server">
   
 </div>
 
