@@ -7,11 +7,11 @@
   <br />
 
   <a href="https://discord.com/users/917804384597970956">
-  <img src="https://lanyard.cnrad.dev/api/917804384597970956?bg=0c0d0d&showDisplayName=true&hideActivity=whenNotUsed" height="90" />
+  <img src="https://lanyard.cnrad.dev/api/917804384597970956?bg=0c0d0d&showDisplayName=true&hideActivity=whenNotUsed" />
   </a>
 
 <div align="left">
-  <h2>Lenguajes, tecnologías y S.O que suelo usar</h2>
+  <h2>Lenguajes, tecnologías y S.O que suelo usar...</h2>
 
   <h4>Lenguajes y frameworks</h4>
   <img src="https://shields.io/badge/PHP-0c0d0d?logo=PHP&logoColor=5D58FB&style=for-the-badge" alt="PHP" />
@@ -29,6 +29,14 @@
   <img src="https://shields.io/badge/Fedora-0c0d0d?logo=Fedora&logoColor=528FFF&style=for-the-badge" alt="Fedora Server Edition">
   <img src="https://shields.io/badge/Windows_Server-0c0d0d?logo=Windows&logoColor=61B1E8&style=for-the-badge" alt="Windows Server">
   
+</div>
+
+<div align="right">
+  <h2>Por aprender...</h2>
+  
+  <img src="https://shields.io/badge/C%23-0c0d0d?logo=csharp&logoColor=00A6FF&style=for-the-badge" alt="C#/C Sharp">
+  <img src="https://shields.io/badge/GO-0c0d0d?logo=go&logoColor=00A6FF&style=for-the-badge" alt="Go Lang">
+  <img src="https://shields.io/badge/Rocky_Linux-0c0d0d?logo=rockylinux&logoColor=00FF7C&style=for-the-badge" alt="Rocky Linux">
 </div>
 
 </div>
