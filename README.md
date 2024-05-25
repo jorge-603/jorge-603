@@ -17,7 +17,7 @@
   <img src="https://shields.io/badge/PHP-0c0d0d?logo=PHP&logoColor=5D58FB&style=for-the-badge" alt="PHP" />
   <img src="https://shields.io/badge/Laravel-0c0d0d?logo=Laravel&logoColor=FF0000&style=for-the-badge" alt="Laravel" />
   <img src="https://shields.io/badge/JavaScript-0c0d0d?logo=JavaScript&logoColor=e8d44d&style=for-the-badge" alt="JavaScript" />
-  <img src="https://shields.io/badge/JQuery_/_AJAX-0c0d0d?logo=jquery&logoColor=5D58FB&style=for-the-badge" alt="JQuery / AJAX" />
+  <img src="https://shields.io/badge/AJAX-0c0d0d?logo=jquery&logoColor=5D58FB&style=for-the-badge" alt="JQuery / AJAX" />
 
   <h4>Tecnologías</h4>
   <img src="https://shields.io/badge/Apache-0c0d0d?logo=Apache&logoColor=EC0000&style=for-the-badge" alt="Apache">
