@@ -36,7 +36,6 @@
   
   <img src="https://shields.io/badge/C%23-0c0d0d?logo=csharp&logoColor=00A6FF&style=for-the-badge" alt="C#/C Sharp">
   <img src="https://shields.io/badge/GO-0c0d0d?logo=go&logoColor=00A6FF&style=for-the-badge" alt="Go Lang">
-  <img src="https://shields.io/badge/Rocky_Linux-0c0d0d?logo=rockylinux&logoColor=00FF7C&style=for-the-badge" alt="Rocky Linux">
 </div>
 
   <h2>Proyectos Actuales</h2>
