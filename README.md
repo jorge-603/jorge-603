@@ -36,6 +36,7 @@
   
   <img src="https://shields.io/badge/C%23-0c0d0d?logo=csharp&logoColor=00A6FF&style=for-the-badge" alt="C#/C Sharp">
   <img src="https://shields.io/badge/GO-0c0d0d?logo=go&logoColor=00A6FF&style=for-the-badge" alt="Go Lang">
+  <img src="https://shields.io/badge/nginx-0c0d0d?logo=nginx&logoColor=009900&style=for-the-badge" alt="NGINX">
 </div>
 
   <h2>Proyectos Actuales</h2>
