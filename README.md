@@ -21,6 +21,7 @@
 
   <h4>Tecnologías</h4>
   <img src="https://shields.io/badge/Apache-0c0d0d?logo=Apache&logoColor=EC0000&style=for-the-badge" alt="Apache">
+  <img src="https://shields.io/badge/nginx-0c0d0d?logo=nginx&logoColor=009900&style=for-the-badge" alt="NGINX">
   <img src="https://shields.io/badge/MySQL-0c0d0d?logo=Mysql&logoColor=1F65AB&style=for-the-badge" alt="MySQL">
   <img src="https://shields.io/badge/MariaDB-0c0d0d?logo=Mariadb&logoColor=D0823E&style=for-the-badge" alt="MariaDB">
   
@@ -36,7 +37,6 @@
   
   <img src="https://shields.io/badge/C%23-0c0d0d?logo=csharp&logoColor=00A6FF&style=for-the-badge" alt="C#/C Sharp">
   <img src="https://shields.io/badge/GO-0c0d0d?logo=go&logoColor=00A6FF&style=for-the-badge" alt="Go Lang">
-  <img src="https://shields.io/badge/nginx-0c0d0d?logo=nginx&logoColor=009900&style=for-the-badge" alt="NGINX">
 </div>
 
   <h2>Proyectos Actuales</h2>
